@@ -11,7 +11,7 @@ csv = "0.14"
 collenchyma = "0.0.8"
 leaf = "0.2.0"
 collenchyma-blas = "0.2.0"
-hyper = "0.6"
+hyper = "0.14"
 log = "0.3"
 env_logger = "0.3"
 
